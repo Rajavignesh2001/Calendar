@@ -1,0 +1,27 @@
+.container {
+  background-color: brown;
+  color: black;
+  box-shadow: 0 5px 10px black;
+  border-radius: 7px;
+  text-align: center;
+  padding: 2px;
+  margin-top: 50px;
+  padding-top: 10px;
+}
+h1,
+p {
+  font-size: 20px;
+  background-color: burlywood;
+  box-shadow: 0 5px 10px black;
+  border-radius: 7px;
+  font-family: "Roboto Slab", serif;
+}
+h1 {
+  background-color: burlywood;
+  border: 2px solid black;
+  border-radius: 7px;
+}
+footer {
+  text-align: center;
+  margin-top: 600px;
+}
